@@ -27,14 +27,12 @@
 - 🏕️ I enjoy adventures like camping and hiking  
 - 🎬 Fascinated by documentaries about history, mysteries, and successful people  
 - 📫 Connect with me:  
-  - [LinkedIn](https://www.linkedin.com/in/ponsanthonyadvento/)  
-  - [Facebook](https://www.facebook.com/ponsadvento)  
+    <div align="left">
+      <a href="https://www.linkedin.com/in/ponsanthonyadvento/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+      <a href="https://www.facebook.com/ponsadvento"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    </div>
 - 🌐 Portfolio coming soon!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ponsanthonyadvento/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/ponsadvento"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</div>
 
 <br>
 
@@ -51,7 +49,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 <br>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
