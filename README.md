@@ -8,7 +8,7 @@
 
 <br>
 
-Web Developer
+***Web Developer***
 <p><small><i>
 - Learning constantly to be better at scalable web solutions<br>
 - "If there's an opportunity, I would like to create myself my own general computer."
