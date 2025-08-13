@@ -8,9 +8,9 @@
 
 <br>
 
-Web Developer — Frontend & Backend Specialist  
+Web Developer
 <p><small><i>
-- Building digital experiences and learning every day<br>
+- Learning constantly to be better at scalable web solutions<br>
 - "If there's an opportunity, I would like to create myself my own general computer."
 </i></small></p>
 
